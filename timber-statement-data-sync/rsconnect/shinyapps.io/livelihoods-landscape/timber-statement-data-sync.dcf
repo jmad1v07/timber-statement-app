@@ -1,0 +1,12 @@
+name: timber-statement-data-sync
+title: timber-statement-data-sync
+username:
+account: livelihoods-landscape
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2646014
+bundleId: 3481633
+url: https://livelihoods-landscape.shinyapps.io/timber-statement-data-sync/
+when: 1596706124.13051
+asMultiple: FALSE
+asStatic: FALSE
